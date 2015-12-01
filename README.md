@@ -12,3 +12,9 @@ https://rate-exchange.herokuapp.com/fetchRate?from=EUR&to=CAD
 last release 2011
 https://code.google.com/p/currency-converter-api/
 http://bank-ua.com/xml/
+
+Java Money and Currency API
+http://javamoney.github.io/
+
+Menota User Guide
+https://github.com/JavaMoney/jsr354-ri/blob/master/src/main/asciidoc/userguide.adoc
