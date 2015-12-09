@@ -18,3 +18,13 @@ http://javamoney.github.io/
 
 Menota User Guide
 https://github.com/JavaMoney/jsr354-ri/blob/master/src/main/asciidoc/userguide.adoc
+
+NBU API
+http://www.bank.gov.ua/control/uk/publish/article?art_id=24794511&cat_id=7693080
+
+today:
+http://bank.gov.ua/NBUStatService/v1/statdirectory?exchange
+http://bank.gov.ua/NBUStatService/v1/statdirectory?exchange&json
+date (scince 1998-01-01): 
+http://bank.gov.ua/NBUStatService/v1/statdirectory?exchange&date=YYYYMMDD
+http://bank.gov.ua/NBUStatService/v1/statdirectory?exchange&date=YYYYMMDD&json
